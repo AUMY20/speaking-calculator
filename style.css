@@ -1,0 +1,22 @@
+html{
+    text-align: center;
+    background-color: navy;
+    font-style: italic;
+}
+center{
+    background-color: blue;
+}
+button{
+    background-color: cyan;
+    height: 50px;
+    width: 150px;
+    font-size: large;
+}
+button:hover{
+    height: 100px;
+    width: 300px;
+    font-size: large;
+}
+h2{
+    text-decoration: red;
+}
